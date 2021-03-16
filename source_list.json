@@ -1,0 +1,133 @@
+[
+    {
+        "title": "Western Stars II (CID)",
+        "serverUrl": "https://ottapp-appgw-amp-a.cid.mr.tv3cloud.com",
+        "ownerUid": "azuki",
+        "primaryAccount": "",
+        "tenantId": "",
+        "mediaUid": "Default1_3111_Jitp_Reach_HD",
+        "appToken": "",
+        "playbackMode": "VOD",
+        "stsToken": "",
+        "catchupStartTime": ""
+    },
+    {
+        "title": "VOD new TMO",
+        "serverUrl": "https://ottapp-appgw-amp-a.dev.mr.tv3cloud.com",
+        "ownerUid": "azuki",
+        "primaryAccount": "",
+        "tenantId": "",
+        "mediaUid": "Default1_2005_Jitp_Reach_HD",
+        "appToken": "",
+        "playbackMode": "VOD",
+        "stsToken": "",
+        "catchupStartTime": "",
+        "inhomeServerUrl": "https://mkinhome.azurewebsites.net/v1/ihd/users/userAccount/{accountId}/isInHome",
+        "inhomeServerToken": "eyJhbGciOiJIUzI1NiIsInR5"
+    },
+    {
+        "title": "MF Asset-DAI Multiple Audio (PrePod - DAI)",
+        "serverUrl": "https://ottapp-appgw-amp-a.pprod.mr.tv3cloud.com",
+        "ownerUid": "tenant1",
+        "primaryAccount": "",
+        "tenantId": "tenant1",
+        "mediaUid": "tenant1_Default_8026_Jitp_Reach_HD",
+        "appToken": "",
+        "playbackMode": "VOD",
+        "stsToken": "",
+        "catchupStartTime": "",
+        "inhomeServerUrl": "https://mkinhome.azurewebsites.net/v1/ihd/users/userAccount/{accountId}/isInHome",
+        "inhomeServerToken": "eyJhbGciOiJIUzI1NiIsInR5"
+    },
+    {
+        "title": "Big Buck Bunny (seek/skip backward blocked)",
+        "serverUrl": "https://ottapp-appgw-amp-a.cid.mr.tv3cloud.com",
+        "ownerUid": "azuki",
+        "primaryAccount": "",
+        "tenantId": "",
+        "mediaUid": "Default1_1660_Jitp_Reach_HD",
+        "appToken": "",
+        "playbackMode": "VOD",
+        "stsToken": "",
+        "catchupStartTime": ""
+    },
+    {
+        "title": "8 Audio 8 Subtitle",
+        "serverUrl": "https://ottapp-appgw-amp-a.cid.mr.tv3cloud.com",
+        "ownerUid": "azuki",
+        "primaryAccount": "",
+        "tenantId": "",
+        "mediaUid": "Default1_500_Jitp_Reach_HD",
+        "appToken": "",
+        "playbackMode": "VOD",
+        "stsToken": "",
+        "catchupStartTime": ""
+    },
+    {
+        "title": "KGO HD",
+        "serverUrl": "https://ottapp-appgw-amp-a.cid.mr.tv3cloud.com",
+        "ownerUid": "azuki",
+        "primaryAccount": "",
+        "tenantId": "",
+        "mediaUid": "LIVE$11944",
+        "appToken": 22023,
+        "playbackMode": "LIVE",
+        "stsToken": "",
+        "catchupStartTime": ""
+    },
+    {
+        "title": "Frozen II (PProd - CC)",
+        "serverUrl": "https://ottapp-appgw-amp-a.pprod.mr.tv3cloud.com",
+        "ownerUid": "azuki",
+        "primaryAccount": "",
+        "tenantId": "",
+        "mediaUid": "default_TestData_7670_Jitp_Reach_HD",
+        "appToken": "",
+        "playbackMode": "VOD",
+        "stsToken": "",
+        "catchupStartTime": ""
+    },
+    {
+        "title": "MF-Asset (PPod - Subtitle)",
+        "serverUrl": "https://ottapp-appgw-amp-a.pprod.mr.tv3cloud.com",
+        "ownerUid": "azuki",
+        "primaryAccount": "",
+        "tenantId": "",
+        "mediaUid": "Default1_567905_Jitp_Reach_HD",
+        "appToken": "",
+        "playbackMode": "VOD",
+        "stsToken": "",
+        "catchupStartTime": ""
+    },
+    {
+        "title": "Sintel (DASH-CLEAR)",
+        "externalSourceUrl": "https://bitmovin-a.akamaihd.net/content/sintel/sintel.mpd",
+        "playbackMode": "VOD"
+    },
+    {
+        "title": "Sintel (HLS-CLEAR)",
+        "externalSourceUrl": "https://bitmovin-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+        "playbackMode": "VOD"
+    },
+    {
+        "title": "Big Buck Bunny (DASH-CLEAR)",
+        "externalSourceUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd",
+        "playbackMode": "VOD"
+    },
+    {
+        "title": "Tears of Steel (DASH-CLEAR)",
+        "externalSourceUrl": "http://www.bok.net/dash/tears_of_steel/cleartext/stream.mpd",
+        "playbackMode": "VOD"
+    },
+    {
+        "title": "Tears of Steel (DASH-WV-ENCRYPTED)",
+        "externalSourceUrl": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
+        "externalSourceLicenseUrl": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
+        "playbackMode": "VOD"
+    },
+    {
+        "title": "Live (dynamic mpd CLEAR)",
+        "externalSourceUrl": "https://livesim.dashif.org/livesim/mup_30/testpic_2s/Manifest.mpd",
+        "playbackMode": "LIVE"
+    }
+]
